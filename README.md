@@ -7,3 +7,6 @@ The main goal of  this porject is to apply tensorflow and keras for image recogn
 3-keras 2.2.4<br/>
 4-pillow<br/>
 5-matplotlib<br/>
+
+# Remark 
+All codes are in branch 'dev'
